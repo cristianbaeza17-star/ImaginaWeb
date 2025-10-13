@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "gallery-1",
+      "title": "Cosmic Swirl",
+      "author": "UserA",
+      "description": "Abstract painting with swirling colors.",
+      "imageUrl": "https://picsum.photos/seed/gal1/600/400",
+      "imageHint": "abstract art"
+    },
+    {
+      "id": "gallery-2",
+      "title": "Mind Palace",
+      "author": "UserB",
+      "description": "A surreal digital sculpture.",
+      "imageUrl": "https://picsum.photos/seed/gal2/600/800",
+      "imageHint": "surreal sculpture"
+    },
+    {
+      "id": "gallery-3",
+      "title": "Ocean's Whisper",
+      "author": "UserC",
+      "description": "A short poem about the sea.",
+      "imageUrl": "https://picsum.photos/seed/gal3/600/600",
+      "imageHint": "ocean text"
+    },
+    {
+      "id": "gallery-4",
+      "title": "Chrono-Rider",
+      "author": "UserD",
+      "description": "Concept for a futuristic vehicle.",
+      "imageUrl": "https://picsum.photos/seed/gal4/800/600",
+      "imageHint": "futuristic vehicle"
+    },
+    {
+      "id": "gallery-5",
+      "title": "The Guardian",
+      "author": "UserE",
+      "description": "A character sketch.",
+      "imageUrl": "https://picsum.photos/seed/gal5/600/700",
+      "imageHint": "character sketch"
+    },
+    {
+      "id": "gallery-6",
+      "title": "Echoes in Silica",
+      "author": "UserF",
+      "description": "A piece of generative music.",
+      "imageUrl": "https://picsum.photos/seed/gal6/600/400",
+      "imageHint": "music waveform"
+    }
+  ]
 }
